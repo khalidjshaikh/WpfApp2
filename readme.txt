@@ -7,3 +7,6 @@ msbuild
 Build succeeded.
     0 Warning(s)
     0 Error(s)
+
+Debug|Any CPU = Debug|Any CPU
+Release|Any CPU = Release|Any CPU
